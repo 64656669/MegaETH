@@ -18,6 +18,5 @@ I decided to create something… different.
 
 🎥 Video Message
 
-<iframe width="560" height="315" src="https://www.youtube.com/shorts/nW4vDh7qdbI" 
-frameborder="0" allowfullscreen></iframe>
+https://www.youtube.com/shorts/nW4vDh7qdbI
 
